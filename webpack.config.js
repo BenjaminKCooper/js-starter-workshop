@@ -32,8 +32,6 @@ module.exports = {
 
 };
 
-
-
 // module.exports = {
 //   entry: ['babel-polyfill', './src'],
 //   output: {

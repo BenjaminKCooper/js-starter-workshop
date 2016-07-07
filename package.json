@@ -8,7 +8,7 @@
     "deploy": "npm run build; surge -p .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node_modules/.bin/webpack-dev-server --inline --hot"
-  },
+  }, 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BenjaminKCooper/js-starter-workshop.git"
@@ -17,7 +17,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BenjaminKCooper/js-starter-workshop/issues"
-  }, 
+  },
   "homepage": "https://github.com/BenjaminKCooper/js-starter-workshop#readme",
   "devDependencies": {
     "babel-core": "^6.10.4",
